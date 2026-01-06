@@ -24,6 +24,7 @@ venv/
 .venv/
 .vscode/
 .conda/
+uv.lock
 
 # exclude pdf, mp3
 *.pdf
@@ -157,6 +158,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+uv.lock
 
 # Spyder project settings
 .spyderproject
